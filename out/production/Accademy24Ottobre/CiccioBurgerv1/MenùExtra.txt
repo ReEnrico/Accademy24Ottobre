@@ -1,0 +1,10 @@
+Pomodoro 0,61
+Cipolla 0,32
+Maionese 0,25
+Ketchup 0,25
+Bacon croccante 1,40
+Salsa piccante 0,93
+Lattuga 0,55
+Formaggio 0.35
+Nutella 0,22
+Last update 2022-11-05

@@ -1,0 +1,6 @@
+Pane bianco 2,30
+Pane farina di frumento 3,33
+Pane farina di riso 4,04
+Pane integrale 4,66
+Pane di grano bio 6,37
+Last update 2022-11-05

@@ -1,0 +1,27 @@
+* Esercitazione
+* Creare nuovo package con lettera iniziale uguale alla precedente
+* e resto del nome AbstractClassesWithInterfaces
+* Il problema è che solo alcuni di questi animali devono saper vivere in città.
+*
+* Se inserisco questi metodi dentro le classi astratte
+* creo dei problemi di coerenza dell'applicazione.
+* Infatti questi metodi saranno poi vuoti nella maggior parte delle classi
+* che non hanno bisogno di queste funzionalità e questo è cattiva architettura.
+*
+* Se implemento questi metodi in diverse classi in modo slegato fra loro
+* invece creo dei protocolli o degli anti-pattern. Cioè forzo me e/o i miei colleghi
+* a ricordare ogni classe in cui è definito quel metodo e come. Di nuovo problematico.
+*
+* Fare uso di interfacce (anche multiple) è una buona soluzione in questo caso.
+* Implementa 2 interfacce, CanLiveInACity e CanFlyWithRadar
+* CanLiveInACity contiene 2 metodi: scansaAuto() e trovaCiboNeiRifiutiUmani()
+* CanFlyWithRadar contiene 1 metodo volaConRadar()
+* definisci i metodi nelle interfacce poi implementali tutti nella classe Piccione
+*
+* Adesso poniti lo stesso problema con gli animali domestici
+* Crea un animale domestico qualsiasi che estenda Animale e Quadrupede
+* Crea 2 interfacce che gli diano la possibilità di
+* comportarsi come un animale domestico e che gli permettano di
+* regolare la temperatura corporea stando soprattutto al chiuso in casa
+* Implementa le interfacce multiple nella classe
+* dell'animale domestico che hai creato

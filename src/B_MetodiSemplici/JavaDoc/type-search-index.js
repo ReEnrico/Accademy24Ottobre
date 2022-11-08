@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"B_MetodiSemplici","l":"B_Calcolatrice"}];updateSearchResults();

@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"B_MetodiSemplici","c":"B_Calcolatrice","l":"B_Calcolatrice()","u":"%3Cinit%3E()"},{"p":"B_MetodiSemplici","c":"B_Calcolatrice","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"B_MetodiSemplici","c":"B_Calcolatrice","l":"operators(int, double, double)","u":"operators(int,double,double)"}];updateSearchResults();

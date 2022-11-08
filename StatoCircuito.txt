@@ -1,0 +1,287 @@
+========================
+1 CircuitoDiCasa Corrente on
+2 La lampadina è accesa
+5 La lampadina è accesa
+1 La lampadina è accesa
+2 La lampadina è spenta
+2 La lampadina è accesa
+========================
+2 CircuitoDiCasa Corrente on
+5 La lampadina è spenta
+0 La lampadina è accesa
+0 La lampadina è spenta
+6 La lampadina è accesa
+2 La lampadina è spenta
+========================
+3 CircuitoDiCasa Corrente on
+3 La lampadina è accesa
+5 La lampadina è accesa
+5 La lampadina è spenta
+0 La lampadina è accesa
+2 La lampadina è accesa
+========================
+4 CircuitoDiCasa Corrente on
+2 La lampadina è spenta
+1 La lampadina è spenta
+6 La lampadina è spenta
+1 La lampadina è accesa
+2 La lampadina è accesa
+========================
+5 CircuitoDiCasa Corrente on
+2 La lampadina è spenta
+5 La lampadina è accesa
+5 La lampadina è spenta
+1 La lampadina è spenta
+0 La lampadina è spenta
+========================
+6 CircuitoDiCasa Corrente on
+5 La lampadina è accesa
+3 La lampadina è spenta
+3 La lampadina è accesa
+5 La lampadina è spenta
+5 La lampadina è accesa
+========================
+7 CircuitoDiCasa Corrente on
+4 La lampadina è accesa
+4 La lampadina è spenta
+5 La lampadina è spenta
+4 La lampadina è accesa
+6 La lampadina è accesa
+========================
+8 CircuitoDiCasa Corrente off
+0 Non c'è corrente nel circuito
+0 Non c'è corrente nel circuito
+4 Non c'è corrente nel circuito
+1 Non c'è corrente nel circuito
+4 Non c'è corrente nel circuito
+========================
+9 CircuitoDiCasa Corrente on
+3 La lampadina è accesa
+1 La lampadina è accesa
+2 La lampadina è accesa
+2 La lampadina è spenta
+4 La lampadina è accesa
+========================
+10 CircuitoDiCasa Corrente on
+6 La lampadina è accesa
+0 La lampadina è accesa
+0 La lampadina è spenta
+4 La lampadina è spenta
+2 La lampadina è accesa
+========================
+11 CircuitoDiCasa Corrente on
+2 La lampadina è spenta
+5 La lampadina è accesa
+0 La lampadina è accesa
+5 La lampadina è spenta
+4 La lampadina è accesa
+========================
+12 CircuitoDiCasa Corrente on
+1 La lampadina è spenta
+4 La lampadina è spenta
+1 La lampadina è accesa
+5 La lampadina è accesa
+5 La lampadina è spenta
+========================
+13 CircuitoDiCasa Corrente on
+5 La lampadina è accesa
+6 La lampadina è spenta
+3 La lampadina è spenta
+1 La lampadina è spenta
+5 La lampadina è spenta
+========================
+14 CircuitoDiCasa Corrente on
+0 La lampadina è spenta
+5 La lampadina è accesa
+3 La lampadina è accesa
+5 La lampadina è spenta
+5 La lampadina è accesa
+========================
+15 CircuitoDiCasa Corrente on
+2 La lampadina è accesa
+2 La lampadina è spenta
+0 La lampadina è accesa
+0 La lampadina è spenta
+3 La lampadina è spenta
+========================
+16 CircuitoDiCasa Corrente off
+4 Non c'è corrente nel circuito
+0 Non c'è corrente nel circuito
+0 Non c'è corrente nel circuito
+6 Non c'è corrente nel circuito
+6 Non c'è corrente nel circuito
+========================
+17 CircuitoDiCasa Corrente on
+4 La lampadina è accesa
+4 La lampadina è spenta
+2 La lampadina è accesa
+3 La lampadina è accesa
+6 La lampadina è accesa
+========================
+18 CircuitoDiCasa Corrente on
+2 La lampadina è spenta
+3 La lampadina è spenta
+5 La lampadina è accesa
+2 La lampadina è accesa
+0 La lampadina è accesa
+========================
+19 CircuitoDiCasa Corrente on
+6 La lampadina è spenta
+6 La lampadina è accesa
+0 La lampadina è spenta
+4 La lampadina è accesa
+2 La lampadina è spenta
+========================
+20 CircuitoDiCasa Corrente on
+1 La lampadina è accesa
+1 La lampadina è spenta
+1 La lampadina è accesa
+1 La lampadina è spenta
+0 La lampadina è accesa
+========================
+21 CircuitoDiCasa Corrente on
+6 La lampadina è spenta
+2 La lampadina è accesa
+3 La lampadina è accesa
+6 La lampadina è accesa
+3 La lampadina è spenta
+========================
+22 CircuitoDiCasa Corrente on
+4 La lampadina è spenta
+1 La lampadina è accesa
+3 La lampadina è rotta
+1 La lampadina è spenta
+3 La lampadina è rotta
+========================
+23 CircuitoDiCasa Corrente on
+6 La lampadina è spenta
+4 La lampadina è accesa
+6 La lampadina è accesa
+4 La lampadina è spenta
+2 La lampadina è spenta
+========================
+24 CircuitoDiCasa Corrente off
+5 Non c'è corrente nel circuito
+6 Non c'è corrente nel circuito
+4 Non c'è corrente nel circuito
+1 Non c'è corrente nel circuito
+5 Non c'è corrente nel circuito
+========================
+25 CircuitoDiCasa Corrente on
+5 La lampadina è accesa
+3 La lampadina è rotta
+2 La lampadina è accesa
+1 La lampadina è rotta
+6 La lampadina è accesa
+========================
+26 CircuitoDiCasa Corrente on
+4 La lampadina è accesa
+5 La lampadina è spenta
+6 La lampadina è spenta
+4 La lampadina è spenta
+1 La lampadina è rotta
+========================
+27 CircuitoDiCasa Corrente on
+6 La lampadina è accesa
+4 La lampadina è accesa
+3 La lampadina è rotta
+1 La lampadina è rotta
+1 La lampadina è rotta
+========================
+28 CircuitoDiCasa Corrente on
+3 La lampadina è rotta
+5 La lampadina è accesa
+3 La lampadina è rotta
+6 La lampadina è spenta
+0 La lampadina è accesa
+========================
+29 CircuitoDiCasa Corrente on
+1 La lampadina è rotta
+0 La lampadina è spenta
+4 La lampadina è spenta
+6 La lampadina è accesa
+6 La lampadina è spenta
+========================
+30 CircuitoDiCasa Corrente on
+6 La lampadina è accesa
+4 La lampadina è accesa
+5 La lampadina è spenta
+6 La lampadina è spenta
+6 La lampadina è accesa
+========================
+31 CircuitoDiCasa Corrente on
+4 La lampadina è spenta
+3 La lampadina è rotta
+2 La lampadina è spenta
+2 La lampadina è accesa
+4 La lampadina è accesa
+========================
+32 CircuitoDiCasa Corrente off
+1 Non c'è corrente nel circuito
+0 Non c'è corrente nel circuito
+0 Non c'è corrente nel circuito
+0 Non c'è corrente nel circuito
+2 Non c'è corrente nel circuito
+========================
+33 CircuitoDiCasa Corrente on
+5 La lampadina è accesa
+6 La lampadina è accesa
+1 La lampadina è rotta
+5 La lampadina è spenta
+1 La lampadina è rotta
+========================
+34 CircuitoDiCasa Corrente on
+3 La lampadina è rotta
+3 La lampadina è rotta
+1 La lampadina è rotta
+0 La lampadina è accesa
+1 La lampadina è rotta
+========================
+35 CircuitoDiCasa Corrente on
+4 La lampadina è accesa
+5 La lampadina è accesa
+4 La lampadina è spenta
+4 La lampadina è accesa
+3 La lampadina è rotta
+========================
+36 CircuitoDiCasa Corrente on
+0 La lampadina è spenta
+1 La lampadina è rotta
+4 La lampadina è spenta
+4 La lampadina è accesa
+6 La lampadina è spenta
+========================
+37 CircuitoDiCasa Corrente on
+4 La lampadina è spenta
+0 La lampadina è accesa
+6 La lampadina è accesa
+4 La lampadina è accesa
+6 La lampadina è spenta
+========================
+38 CircuitoDiCasa Corrente on
+0 La lampadina è spenta
+6 La lampadina è accesa
+6 La lampadina è spenta
+6 La lampadina è accesa
+1 La lampadina è rotta
+========================
+39 CircuitoDiCasa Corrente on
+4 La lampadina è spenta
+5 La lampadina è spenta
+5 La lampadina è rotta
+6 La lampadina è spenta
+0 La lampadina è accesa
+========================
+40 CircuitoDiCasa Corrente off
+3 Non c'è corrente nel circuito
+2 Non c'è corrente nel circuito
+0 Non c'è corrente nel circuito
+6 Non c'è corrente nel circuito
+3 Non c'è corrente nel circuito
+========================
+41 CircuitoDiCasa Corrente on
+0 La lampadina è accesa
+5 La lampadina è rotta
+4 La lampadina è accesa
+5 La lampadina è rotta
+1 La lampadina è rotta

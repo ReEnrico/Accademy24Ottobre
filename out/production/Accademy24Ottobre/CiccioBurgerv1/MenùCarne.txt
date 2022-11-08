@@ -1,0 +1,5 @@
+Carne di manzo 3,13
+Carne di suino 2,56
+Carne d'asino 4,14
+Carne di bufala 4,55
+Last update 2022-11-05

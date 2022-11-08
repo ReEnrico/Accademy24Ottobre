@@ -1,0 +1,51 @@
+Scegli un numero da 1 a 9: 2
+
+Hai vinto. Complimenti!!
+
+Fine partita 1
+#################################################
+Vuoi rigiocare?
+1)Si
+2)No
+Sì
+Scegli un numero da 1 a 9: 6
+
+Non hai indovinato. Ritenta!
+
+Scegli un numero da 1 a 9: 3
+
+Non hai indovinato. Ritenta!
+
+Scegli un numero da 1 a 9: 9
+
+Hai vinto. Complimenti!!
+
+Fine partita 2
+#################################################
+Vuoi rigiocare?
+1)Si
+2)No
+Sì
+Scegli un numero da 1 a 9: 2
+
+Non hai indovinato. Ritenta!
+
+Scegli un numero da 1 a 9: 4
+
+Non hai indovinato. Ritenta!
+
+Scegli un numero da 1 a 9: 6
+
+Non hai indovinato. Ritenta!
+
+Il pc ha scelto il numero 8
+
+Hai perso il gioco!
+
+Fine partita 3
+#################################################
+Vuoi rigiocare?
+1)Si
+2)No
+No
+Uscita dal gioco eseguita con successo

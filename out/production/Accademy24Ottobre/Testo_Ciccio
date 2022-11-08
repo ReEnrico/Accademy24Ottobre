@@ -1,0 +1,61 @@
+/* Ciccio 1.0, versione no-persistence
+* Lo scopo dell'applicazione è aiutare una società fittizia chiamata Ciccio Burgers a gestire
+ il loro processo di vendita di hamburger.
+ La nostra applicazione aiuterà Ciccio a selezionare i tipi di hamburger, alcuni degli ingredienti aggiuntivi
+ * (aggiunte) da aggiungere agli hamburger e anche ai prezzi.
+ Vogliamo creare un hamburger di base, ma anche altri due tipi di hamburger più complessi.
+ *
+ L'hamburger di base dovrebbe avere i seguenti elementi.
+ Tipo di panino, carne e fino a 4 aggiunte aggiuntive (ingredienti come lattuga, pomodoro, carota, ecc.) che il cliente può scegliere di aggiungere all'hamburger.
+ Ciascuno di questi articoli comporta un addebito sul prezzo quindi hai bisogno di un modo
+ per tenere traccia di quanti articoli sono stati aggiunti e un modo per calcolare il prezzo finale (
+ hamburger base + tutte le aggiunte).
+ Questo hamburger ha un prezzo base e le aggiunte hanno tutte un prezzo separato (fino a 4 aggiunte, vedi sopra).
+ Crea una classe Hamburger per realizzare quanto descritto sopra.
+ Il costruttore dovrebbe includere solo il tipo di pane, la carne e il prezzo, può includere anche il nome
+ dell'hamburger o puoi usare un setter.
+*
+* Crea anche due varietà extra di Hamburger (sottoclassi)
+ a) Hamburger sano (su un panino integrale), più due ingredienti che possono essere aggiunti.
+ L'hamburger salutare può avere 6 elementi (aggiunte) in totale.
+ Suggerimento: probabilmente dovrai implementare i 2 elementi aggiuntivi in questa nuova classe (sottoclasse di
+ Hamburger), non la classe base (Hamburger),
+ Le 2 aggiunte extra sono possibili solo per questa nuova classe.
+ b) Hamburger Deluxe - viene fornito con patatine e bevande come aggiunte, ma non sono consentite aggiunte extra.
+ Suggerimento: devi trovare un modo per aggiungere automaticamente queste nuove aggiunte.
+ Al momento dell' ordine dell' hamburger deluxe viene creato l'oggetto e questo deve impedire che vengano apportate altre aggiunte.
+ Tutte e 3 le classi dovrebbero avere un metodo che può essere chiamato in qualsiasi momento per mostrare il prezzo
+ dell'hamburger base più tutte le aggiunte, ognuna delle quali mostra il nome dell'aggiunta, il prezzo dell'aggiunta
+ e un totale finale per l'hamburger finito (prezzo base + tutte le aggiunte)
+ Per le due classi aggiuntive potresti averi bisogni di interpellare la classe genitore per i prezzi e poi aggiungere i totali relativi al prezzo finale.
+*
+*
+* L' output sarà qualcosa del genere:
+Hai scelto Hamburger Base con pane Bianco con Salsiccia, prezzo €3.56
+Aggiunto Pomodoro per un sovrapprezzo di 0.27
+Aggiunto Lattuga per un sovrapprezzo di 0.75
+Aggiunto Gorgonzola per un sovrapprezzo di 1.13
+Prezzo totale 5.71
+*
+Hamburger Sano con pane Segale Integrale con Bacon, prezzo €5.67
+Aggiunto Uova per un sovrapprezzo di €5.43
+Aggiunto Lenticchie per un sovrapprezzo di €3.41
+Prezzo totale Hamburger Sano €14.51
+*
+Hamburger Deluxe con pane Bianco con Salsiccia & Bacon, prezzo €14.54
+Aggiunto Patatine per un sovrapprezzo di €2.75
+Aggiunto CocaCola per un sovrapprezzo di €1.81
+Prezzo totale Hamburger Deluxe  XX.XXX
+*
+*
+* Il progetto prevede 3 Deliverables :
+*
+1. MVP (minimum viable product)
+* Realizzazione delle funzionalità base
+* Versione statica con oggetti instanziati nel Main a mano
+*
+2. Versione plus
+* Implementazione di scanner/BufferedReader per far si che sia l'utente a scegliere
+*
+3. Versione plus Pluri-panino, cioè l'utente può ordinare più panini e alla fine c'è un conto dettagliato su tutti i panini e un totale finale
+*
