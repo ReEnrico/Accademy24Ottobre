@@ -43,7 +43,7 @@ public class Hamburger implements CanWriteReadFile{
                 while (length < lines - 1) {
                     String ingrediente = "";
                     double prezzo;
-                    ArrayList<String> tokenList = new ArrayList<>();
+                    LinkedList<String> tokenList = new LinkedList<>();
                     //su lettura posso agire con i metodi di stringa
                     String lettura = scanner.nextLine();
                     String newLettura = lettura.replace(",", ".");
